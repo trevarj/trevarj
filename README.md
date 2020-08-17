@@ -1,4 +1,8 @@
-### Hi there 👋
+### Generic ⌨️ Programmer
+
+**Job:** Java wage-slave ☕
+
+**Likes:** Rust 🦀, Linux 🐧 stuff
 
 <!--
 **trevarj/trevarj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
