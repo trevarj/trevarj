@@ -1,9 +1,15 @@
 ### Generic ⌨️ Programmer
 
-**Job:** Java wage-slave ☕
+```Rust
+let job = "Java";
+let interests = vec!["Rust, "Linux", "Open source"];
 
-**Likes:** Rust 🦀, Linux 🐧 stuff
+match your_question {
+    Some(_) => println!("trevarj on freenode or oftc"),
+    None => println!("Bye."),
+}
 
+```
 <!--
 **trevarj/trevarj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
