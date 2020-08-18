@@ -1,7 +1,9 @@
 ### Generic ⌨️ Programmer
 
 ```Rust
-let job = "Java";
+let job = "Java :[";
+let needs_rust_job = true;
+
 let interests = vec!["Rust, "Linux", "Open source"];
 
 match your_question {
