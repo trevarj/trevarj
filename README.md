@@ -1,17 +1,8 @@
-### Generic ⌨️ Programmer
+### ⌨️
 
-```Rust
-let job = "Java :[";
-let needs_rust_job = true;
+Rust 🦀
 
-let interests = vec!["Rust, "Linux", "Open source"];
-
-match your_question {
-    Some(_) => println!("trevarj on freenode or oftc"),
-    None => println!("Bye."),
-}
-
-```
+![my stats](https://github-readme-stats.vercel.app/api?username=trevarj&show_icons=true&count_private=true&theme=nord)
 <!--
 **trevarj/trevarj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
