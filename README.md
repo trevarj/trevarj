@@ -1,5 +1,10 @@
-### ⌨️ 🦀
+### ⌨️
 
+Slowly studying compilers and exploring strongly typed functional languages. 
+
+Exploring ways to separate myself from the "burger 🍔 flipping" style of programming.
+
+See my crypto-world work [here](https://github.com/trevor-crypto) 🪙📉
 
 <!--
 ![my stats](https://github-readme-stats.vercel.app/api?username=trevarj&show_icons=true&count_private=true&theme=nord)
