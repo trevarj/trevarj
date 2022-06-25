@@ -2,8 +2,6 @@
 
 Slowly studying compilers and exploring strongly typed functional languages. 
 
-Exploring ways to separate myself from the "burger 🍔 flipping" style of programming.
-
 Find my crypto-world work [here](https://github.com/trevor-crypto) 🪙📉
 
 <!--
