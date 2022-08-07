@@ -2,8 +2,10 @@
 
 Slowly studying compilers and exploring strongly typed functional languages. 
 
-![my stats](https://github-readme-stats.vercel.app/api?username=trevarj&show_icons=true&count_private=true&hide_title=true&theme=codeSTACKr)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trevarj&theme=codeSTACKr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=trevarj&show_icons=true&count_private=true&hide_title=true&theme=codeSTACKr"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trevarj&theme=codeSTACKr&layout=compact&langs_count=8"/>
+</div>
 
 Find my crypto-world work [here](https://github.com/trevor-crypto) 🪙📉
 
