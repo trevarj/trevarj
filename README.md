@@ -1,6 +1,3 @@
-### ⌨️
-
-Slowly studying compilers and exploring strongly typed functional languages. 
 
 <div align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=trevarj&show_icons=true&count_private=true&hide_title=true&theme=codeSTACKr"/>
