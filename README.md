@@ -1,3 +1,5 @@
+GPG: `A6C2 0D0C 2AD8 38F9 4907 0EA3 A52D 6879 4EBE D758`
+
 
 <div align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=trevarj&show_icons=true&count_private=true&hide_title=true&theme=codeSTACKr"/>
