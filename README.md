@@ -1,7 +1,5 @@
 GPG: `A6C2 0D0C 2AD8 38F9 4907 0EA3 A52D 6879 4EBE D758`
 
-None of my open source contributions will contain LLM generated code, 
-unless explicitly stated otherwise.
 <!--
 ![my stats](https://github-readme-stats.vercel.app/api?username=trevarj&show_icons=true&count_private=true&theme=nord)
 **trevarj/trevarj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
